@@ -39,8 +39,8 @@ Ecoleta is a project to help people find recycling collection points.
 # to run the api
 $ cd backend
 $ yarn
-$ npx knex migrate:latest
-$ npx knex seed:run
+$ yarn knex migrate:latest
+$ yarn knex seed:run
 $ yarn dev
 
 # to run frontend
