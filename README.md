@@ -51,7 +51,7 @@ $ yarn start
 # to run mobile
 $ cd mobile
 $ yarn
-$ expo start
+$ yarn start
 ```
 
 ## :memo: License
