@@ -41,7 +41,7 @@ $ cd backend
 $ yarn
 $ yarn knex migrate:latest
 $ yarn knex seed:run
-$ yarn dev
+$ yarn start
 
 # to run frontend
 $ cd frontend
